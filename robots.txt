@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://enchanting-eclair-fd565a.netlify.app/sitemap.xml
