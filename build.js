@@ -13,6 +13,7 @@ const page = (title, desc, body) => `<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}">
+<meta name="google-site-verification" content="jHGDuf7vndmoHAYF0z2J-8fbIdiqUQPOLxNXKIT1QVU" />
 <link rel="stylesheet" href="/style.css">
 </head>
 <body>
