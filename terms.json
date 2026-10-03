@@ -1,0 +1,125 @@
+{
+  "site": { "name": "Mechanic Speak", "url": "" },
+  "terms": [
+    {
+      "slug": "serpentine-belt",
+      "term": "Serpentine belt",
+      "short": "One long rubber belt that the engine spins to power things like the alternator and A/C.",
+      "plain": "The serpentine belt is one long rubber belt that snakes around several pulleys at the front of the engine. As the engine turns, the belt spins the parts that keep the car running comfortably: the alternator that charges the battery, the air conditioning compressor, and on many cars the power steering pump and the water pump.",
+      "why": "Rubber belts crack, fray, and stretch with age and miles. A shop will usually recommend a new one when they see cracks or glazing, hear squealing, or when the car reaches the mileage the maker lists for replacement.",
+      "urgency": "soon",
+      "urgencyNote": "A worn belt often keeps working for a while, but if it snaps the battery stops charging and, on many cars, the engine can overheat quickly. Don't put it off for long once it's visibly cracked.",
+      "ask": ["Can you show me the cracks or wear on the belt?", "Does the tensioner or any pulley need replacing too, or just the belt?"]
+    },
+    {
+      "slug": "cv-axle",
+      "term": "CV axle",
+      "short": "The shaft that carries power from the transmission to a wheel while letting it steer and bounce.",
+      "plain": "A CV axle (constant velocity axle) is a metal shaft with a flexible joint at each end. It carries the engine's power out to a wheel while still letting that wheel turn left and right and move up and down over bumps. Each joint is packed with grease and sealed inside a rubber cover called a boot.",
+      "why": "The usual story is a torn boot: the grease leaks out, dirt gets in, and the joint wears. The classic sign is a clicking or popping noise when turning, or grease sprayed on the inside of the wheel.",
+      "urgency": "soon",
+      "urgencyNote": "A clicking joint usually gives you some warning time, but a joint that fails completely can leave the car unable to move. Loud clunking or vibration means get it looked at right away.",
+      "ask": ["Is it the boot that's torn or is the joint itself worn?", "Which side, and is it the inner or outer joint?"]
+    },
+    {
+      "slug": "brake-rotor-resurfacing",
+      "term": "Brake rotor resurfacing",
+      "short": "Shaving a thin layer off the brake discs so the pads grip a smooth, flat surface.",
+      "plain": "Rotors are the shiny metal discs behind your wheels that the brake pads squeeze to stop the car. Resurfacing (also called turning or machining) means shaving a very thin layer of metal off each rotor so the surface is smooth and flat again.",
+      "why": "Shops suggest it during a brake job when the rotors have grooves, uneven wear, or cause a pulsing feeling in the brake pedal. Every rotor has a minimum thickness stamped on it; if shaving would take it below that, it must be replaced instead.",
+      "urgency": "soon",
+      "urgencyNote": "It is normally done together with new pads rather than on its own. Grinding noises or a strongly pulsing pedal mean the brakes should be checked promptly.",
+      "ask": ["How thick are the rotors now compared with the minimum?", "Would new rotors cost about the same as resurfacing these?"]
+    },
+    {
+      "slug": "control-arm",
+      "term": "Control arm",
+      "short": "A hinged metal link that holds a wheel to the car's frame and lets it move up and down.",
+      "plain": "A control arm is a sturdy metal link that connects the wheel assembly to the car's frame. It pivots on rubber bushings at one end and usually a ball joint at the other, which lets the wheel travel up and down over bumps while staying in position.",
+      "why": "The rubber bushings crack and the ball joint loosens with age. Signs include clunking over bumps, wandering steering, and uneven tire wear. Many shops replace the whole arm because the bushings and joint come already fitted.",
+      "urgency": "soon",
+      "urgencyNote": "Worn bushings are mostly a noise and tire-wear problem at first. A badly worn ball joint is more serious, because if it separates the wheel can fold out of position.",
+      "ask": ["Is it the bushings, the ball joint, or both?", "Will the car need a wheel alignment afterward?"]
+    },
+    {
+      "slug": "tie-rod-end",
+      "term": "Tie rod end",
+      "short": "The small pivoting joint that connects your steering to each front wheel.",
+      "plain": "Tie rods are the links between the steering system and the front wheels. When you turn the steering wheel, the tie rods push or pull the wheels to point them. The tie rod end is the pivoting joint at the tip, and there is typically an inner and an outer one on each side.",
+      "why": "The joint wears and develops play, meaning it wiggles when it shouldn't. That shows up as loose or vague steering, a shaky steering wheel, or tires wearing on one edge.",
+      "urgency": "now",
+      "urgencyNote": "Steering parts are safety parts. A tie rod end with noticeable play should be replaced promptly, because a failed one means losing steering control of that wheel.",
+      "ask": ["Inner or outer, and which side?", "Can you show me the play in the joint?", "Is an alignment included in the price?"]
+    },
+    {
+      "slug": "wheel-bearing",
+      "term": "Wheel bearing",
+      "short": "The set of steel balls or rollers that lets each wheel spin smoothly.",
+      "plain": "A wheel bearing is a ring of hardened steel balls or rollers that sits in the hub behind each wheel. It lets the wheel spin freely with very little friction while carrying the weight of the car. On most modern cars it is a sealed unit, often sold as a complete hub assembly.",
+      "why": "When a bearing wears, it makes a humming, growling, or roaring noise that gets louder with speed and often changes when you steer left or right.",
+      "urgency": "soon",
+      "urgencyNote": "A noisy bearing gets worse over time. Left long enough it can overheat or develop enough looseness to affect braking and steering, so plan the repair rather than ignoring it.",
+      "ask": ["Which wheel is it, and how did you confirm that?", "Is it a pressed-in bearing or a whole hub assembly?"]
+    },
+    {
+      "slug": "catalytic-converter",
+      "term": "Catalytic converter",
+      "short": "A part in the exhaust that turns the worst engine fumes into less harmful gases.",
+      "plain": "The catalytic converter is a metal canister in the exhaust pipe. Inside is a honeycomb coated with precious metals. As hot exhaust passes through, it converts the most harmful gases into less harmful ones before they leave the tailpipe.",
+      "why": "It can become clogged or stop working well, which often turns on the check engine light with a catalyst efficiency code. It is also a common target for theft because of the metals inside; a stolen one makes the car suddenly very loud.",
+      "urgency": "soon",
+      "urgencyNote": "A weak converter usually won't strand you, but the car may fail an emissions test. A badly clogged one can choke the engine and cause overheating of the exhaust, so loss of power is a reason to act quickly.",
+      "ask": ["What caused it to fail? Is something else, like a misfire, damaging it?", "Is this covered by the longer federal emissions warranty for my car's age and mileage?"]
+    },
+    {
+      "slug": "oxygen-sensor",
+      "term": "Oxygen (O2) sensor",
+      "short": "A sensor in the exhaust that tells the engine computer whether it's burning too much or too little fuel.",
+      "plain": "An oxygen sensor screws into the exhaust pipe and measures how much oxygen is left in the exhaust. The engine computer uses that reading to fine-tune how much fuel it sprays. Most cars have at least two: one before the catalytic converter and one after it.",
+      "why": "Sensors slow down and fail with age. A bad one usually turns on the check engine light and can make the car use more fuel or run roughly.",
+      "urgency": "wait",
+      "urgencyNote": "The car is normally safe to drive for a short while, but running with a bad sensor for a long time wastes fuel and can eventually harm the catalytic converter.",
+      "ask": ["Which sensor is it: before or after the converter, and which side of the engine?", "Did you test the sensor, or is that based only on the code?"]
+    },
+    {
+      "slug": "timing-belt",
+      "term": "Timing belt",
+      "short": "A toothed belt that keeps the engine's valves and pistons moving in step.",
+      "plain": "The timing belt is a toothed rubber belt inside the engine's front cover. It links the crankshaft to the camshaft so the valves open and close at exactly the right moment as the pistons move. Not every engine has one; many use a metal timing chain instead.",
+      "why": "It is a scheduled replacement: car makers list a mileage or age at which it should be changed, whether or not it looks worn. Shops often suggest replacing the water pump and tensioner at the same time, because they sit behind the same covers.",
+      "urgency": "now",
+      "urgencyNote": "If your car is at or past the scheduled interval, don't delay. A timing belt usually gives no warning before it breaks, and on many engines a broken belt lets valves and pistons collide, which causes very expensive damage.",
+      "ask": ["Does my engine have a belt or a chain?", "What interval does the manufacturer list for my car?", "Does the quote include the water pump and tensioner?"]
+    },
+    {
+      "slug": "coolant-flush",
+      "term": "Coolant flush",
+      "short": "Draining the old engine coolant and refilling with fresh.",
+      "plain": "Coolant (also called antifreeze) is the liquid that carries heat away from the engine and stops it freezing in winter. A coolant flush or coolant service drains the old fluid, sometimes rinses the system, and refills it with fresh coolant of the type your car requires.",
+      "why": "The protective additives in coolant wear out over time, which can let corrosion build up inside the engine and radiator. Car makers list an interval for changing it, and shops recommend it when the fluid is old or tests poorly.",
+      "urgency": "wait",
+      "urgencyNote": "This is routine maintenance, not an emergency, as long as the car isn't overheating or leaking. Check your owner's manual for the interval before agreeing.",
+      "ask": ["What interval does my owner's manual give?", "Did you test the coolant, and what did the test show?", "Is it the correct coolant type for my car?"]
+    },
+    {
+      "slug": "struts",
+      "term": "Struts",
+      "short": "The combined spring-and-shock units that hold the car up and keep it from bouncing.",
+      "plain": "A strut is a suspension part that combines a shock absorber with a coil spring in one unit, and it also forms part of the structure that holds the wheel in place. The spring carries the car's weight and the shock absorber stops it bouncing after bumps.",
+      "why": "The shock absorber inside wears out or leaks oil. Signs include a bouncy or floaty ride, the nose diving when braking, clunking over bumps, and cupped tire wear. They are normally replaced in pairs, both fronts or both rears.",
+      "urgency": "wait",
+      "urgencyNote": "Worn struts usually get worse slowly. They do lengthen stopping distances and reduce control on rough roads, so heavy leaking or very poor handling moves this up the list.",
+      "ask": ["Are they leaking, or is this based on mileage?", "Is the quote for complete assemblies with new springs and mounts?", "Is an alignment included?"]
+    },
+    {
+      "slug": "throttle-body-cleaning",
+      "term": "Throttle body cleaning",
+      "short": "Cleaning the valve that controls how much air goes into the engine.",
+      "plain": "The throttle body is a valve between the air filter and the engine. When you press the gas pedal, a flap inside opens to let in more air. Over time a film of carbon and oil builds up around the flap. Cleaning it means removing that buildup with a solvent.",
+      "why": "Buildup can cause a rough or unsteady idle, stalling when coming to a stop, or a hesitant gas pedal. Some shops also offer it as a routine add-on service.",
+      "urgency": "wait",
+      "urgencyNote": "If the car idles and drives normally, this is usually optional. It is worth doing when you actually have idle or stalling symptoms.",
+      "ask": ["What symptom is this meant to fix?", "Is it listed in my car's maintenance schedule?"]
+    }
+  ]
+}
