@@ -120,6 +120,26 @@
       "urgency": "wait",
       "urgencyNote": "If the car idles and drives normally, this is usually optional. It is worth doing when you actually have idle or stalling symptoms.",
       "ask": ["What symptom is this meant to fix?", "Is it listed in my car's maintenance schedule?"]
+    },
+    {
+      "slug": "alternator",
+      "term": "Alternator",
+      "short": "The engine-driven generator that makes electricity for the car and keeps the battery charged.",
+      "plain": "The alternator is a small generator bolted to the engine and spun by a rubber belt. While the engine runs, it makes the electricity that powers the lights, the electronics, and the engine's own ignition and fuel systems. It also refills the battery, which is mainly there to start the car. Without a working alternator, the car runs on whatever charge is left in the battery.",
+      "why": "Alternators wear out inside, and a shop will usually recommend a new one after a charging system test shows it is not putting out enough power. Common signs are a battery warning light on the dash, headlights that dim or flicker, a battery that keeps going dead, slow power windows or other weak accessories, and a whining or growling noise from the engine area.",
+      "urgency": "soon",
+      "urgencyNote": "The car will often still drive for a while, but once the battery runs down the engine can stall and may not restart, which can leave you stranded. If the battery light is on while you are driving, or you notice a burning smell, get it checked right away.",
+      "ask": ["Did you test the charging system, and what did the alternator and the battery each show?", "Could the problem be the belt, a loose connection, or the battery rather than the alternator itself?", "Is the replacement part new or remanufactured?"]
+    },
+    {
+      "slug": "brake-caliper",
+      "term": "Brake caliper",
+      "short": "The clamp at each wheel that squeezes the brake pads against the spinning disc to stop the car.",
+      "plain": "A brake caliper is a clamp that sits over the brake rotor, the metal disc that spins with the wheel. When you press the brake pedal, brake fluid pushes a piston inside the caliper, and the piston squeezes the brake pads against the disc to slow the wheel. When you let off the pedal, the caliper has to release again. It slides on small metal pins so it can clamp and let go evenly.",
+      "why": "A shop recommends caliper work when one is sticking, seized, or leaking brake fluid, often because the piston or the slide pins have corroded. Signs include the car pulling to one side, a burning smell or one wheel that is much hotter than the others, pads worn unevenly, a soft or spongy brake pedal, or wet fluid around the wheel.",
+      "urgency": "now",
+      "urgencyNote": "Brakes are a safety system, and a caliper that sticks or leaks can lengthen stopping distances and make the car harder to control. A fluid leak or a pedal that feels soft or sinks is the most serious sign, so do not keep driving on it.",
+      "ask": ["Is the caliper seized or leaking, or are the slide pins just stuck and able to be cleaned and lubricated?", "Which wheel is it, and can you show me the uneven pad wear or the leak?", "Do the pads, rotor, or brake hose on that wheel need replacing too?"]
     }
   ]
 }
