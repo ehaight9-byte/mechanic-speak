@@ -140,6 +140,26 @@
       "urgency": "now",
       "urgencyNote": "Brakes are a safety system, and a caliper that sticks or leaks can lengthen stopping distances and make the car harder to control. A fluid leak or a pedal that feels soft or sinks is the most serious sign, so do not keep driving on it.",
       "ask": ["Is the caliper seized or leaking, or are the slide pins just stuck and able to be cleaned and lubricated?", "Which wheel is it, and can you show me the uneven pad wear or the leak?", "Do the pads, rotor, or brake hose on that wheel need replacing too?"]
+    },
+    {
+      "slug": "water-pump",
+      "term": "Water pump",
+      "short": "The pump that pushes coolant through the engine and radiator so the engine does not overheat.",
+      "plain": "The water pump keeps coolant, the liquid that carries heat away from the engine, moving in a loop between the engine and the radiator at the front of the car. It is turned by a belt or chain off the engine, which spins a small wheel with blades inside the pump that pushes the coolant along. A seal and a bearing let the shaft spin without letting coolant out. If the pump stops moving coolant, the heat stays in the engine.",
+      "why": "A shop recommends a new water pump when it is leaking coolant from its seal or gasket, or when its bearing is worn and noisy. Signs include coolant drips or dried, crusty residue near the front of the engine, a coolant level that keeps dropping, a grinding, whining or squealing noise from that area, and a temperature gauge that climbs or steam from under the hood.",
+      "urgency": "now",
+      "urgencyNote": "A failing water pump can let the engine overheat, and driving an overheating engine can cause severe damage. If the temperature gauge is climbing, a warning light is on, or you see steam, pull over safely and shut the engine off rather than driving on.",
+      "ask": ["Can you show me where the pump is leaking, or what test showed it has failed?", "Could the coolant loss be coming from a hose, the radiator, or the cap instead of the pump?", "Is the pump driven by the timing belt on my engine, and does anything else need to come off or be replaced at the same time?"]
+    },
+    {
+      "slug": "spark-plugs",
+      "term": "Spark plugs",
+      "short": "Small parts in a gasoline engine that make the spark to light the fuel, one for each cylinder.",
+      "plain": "A gasoline engine makes power by burning a mix of air and fuel inside its cylinders, the chambers where the pistons move up and down. Each cylinder has a spark plug screwed into it, and at the right moment the plug makes a small electric spark that lights the mix. The electricity for that spark comes from the ignition coil. Over time the metal tips of the plugs wear away or get coated with deposits, and the spark gets weaker.",
+      "why": "Spark plugs are a wear item, so a shop may recommend new ones as scheduled maintenance; check your owner's manual for when they are due. A shop may also recommend them when worn plugs are causing trouble, such as a rough or shaky idle, hard starting, sluggish acceleration, worse fuel economy, or a misfire, which is when a cylinder fails to fire properly and may turn on the check engine light.",
+      "urgency": "soon",
+      "urgencyNote": "Worn plugs usually get worse gradually, so there is normally time to plan the work, but the engine will run less smoothly and use more fuel in the meantime. It becomes more serious if the engine is misfiring, and a flashing check engine light means you should get it checked right away, because ongoing misfires can damage the catalytic converter.",
+      "ask": ["Are the plugs due by the schedule in my owner's manual, or did you find a misfire or other problem?", "Can you show me the old plugs and what you see on them?", "If there is a misfire, have you checked the ignition coils and other possible causes as well?"]
     }
   ]
 }
