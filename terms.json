@@ -160,6 +160,26 @@
       "urgency": "soon",
       "urgencyNote": "Worn plugs usually get worse gradually, so there is normally time to plan the work, but the engine will run less smoothly and use more fuel in the meantime. It becomes more serious if the engine is misfiring, and a flashing check engine light means you should get it checked right away, because ongoing misfires can damage the catalytic converter.",
       "ask": ["Are the plugs due by the schedule in my owner's manual, or did you find a misfire or other problem?", "Can you show me the old plugs and what you see on them?", "If there is a misfire, have you checked the ignition coils and other possible causes as well?"]
+    },
+    {
+      "slug": "brake-pads",
+      "term": "Brake pads",
+      "short": "Blocks of friction material that press against the brake discs to slow the car, and wear down as they do.",
+      "plain": "Most cars stop using disc brakes: a metal disc, called a rotor, spins with each wheel, and a clamp called a caliper sits over it. Brake pads are the replaceable blocks inside that clamp, each one a layer of hard-wearing friction material on a metal backing plate. When you press the brake pedal, the caliper squeezes the pads against the rotor, and the rubbing slows the wheel. A little of the friction material wears away every time you brake, so pads are made to be replaced.",
+      "why": "A shop recommends new pads when the friction material has worn thin, which they can measure during an inspection. Signs you may notice include a high-pitched squeal when braking, which often comes from a small metal tab built into the pad to warn you it is getting low, a brake warning light on cars that have pad wear sensors, the car taking longer to stop, or a harsh grinding noise.",
+      "urgency": "soon",
+      "urgencyNote": "Pads that are getting thin but still have material left usually give you a little time to plan the work, though braking gets weaker as they wear, so do not put it off for long. It becomes a do-not-wait repair if you hear grinding or the car is clearly taking longer to stop, because pads worn down to the metal stop the car poorly and damage the rotors.",
+      "ask": ["How much pad material is left on each wheel, and what is the minimum for my car?", "Can you show me the pads and the condition of the rotors?", "Are the pads wearing evenly, and if not, what is causing it?"]
+    },
+    {
+      "slug": "ignition-coil",
+      "term": "Ignition coil",
+      "short": "A part that turns the battery's low voltage into the high voltage a spark plug needs to fire.",
+      "plain": "A gasoline engine lights its fuel with spark plugs, but a car battery only supplies about 12 volts, far too little to make a spark jump. The ignition coil is a small transformer that steps that up to many thousands of volts and sends it to the spark plug at the right moment. Most modern engines have one coil for each cylinder, the chamber where the fuel burns, sitting right on top of its spark plug. When a coil fails, that cylinder gets a weak spark or none at all.",
+      "why": "A shop recommends a new coil when testing shows one is not delivering a proper spark, which causes a misfire, meaning a cylinder fails to fire properly. Signs include a rough or shaky idle, hesitation or loss of power when accelerating, hard starting, worse fuel economy, and a check engine light. Worn spark plugs make coils work harder, so a shop may suggest checking or replacing the plugs at the same time.",
+      "urgency": "soon",
+      "urgencyNote": "A car with one weak coil will often still drive, but it runs poorly and should be repaired soon rather than driven on for weeks. It becomes more serious if the check engine light is flashing or the engine is shaking badly, because a misfiring cylinder sends unburned fuel into the exhaust, where it can overheat and ruin the catalytic converter.",
+      "ask": ["Which cylinder is misfiring, and what test showed the coil is the cause rather than the spark plug or wiring?", "Do the spark plugs need replacing at the same time?", "Are you recommending one coil or all of them, and why?"]
     }
   ]
 }
