@@ -180,6 +180,26 @@
       "urgency": "soon",
       "urgencyNote": "A car with one weak coil will often still drive, but it runs poorly and should be repaired soon rather than driven on for weeks. It becomes more serious if the check engine light is flashing or the engine is shaking badly, because a misfiring cylinder sends unburned fuel into the exhaust, where it can overheat and ruin the catalytic converter.",
       "ask": ["Which cylinder is misfiring, and what test showed the coil is the cause rather than the spark plug or wiring?", "Do the spark plugs need replacing at the same time?", "Are you recommending one coil or all of them, and why?"]
+    },
+    {
+      "slug": "starter",
+      "term": "Starter",
+      "short": "An electric motor that spins the engine for a moment so it can fire up and run on its own.",
+      "plain": "An engine cannot begin turning by itself, so something has to spin it first. The starter is a small, strong electric motor that does that job using power from the battery. When you turn the key or press the start button, a switch on the starter called a solenoid pushes a small gear out to mesh with a large toothed wheel on the engine, and the motor cranks the engine until it fires. As soon as the engine is running, the gear pulls back and the starter rests until the next start.",
+      "why": "A shop recommends a new starter when testing shows it is not cranking the engine properly even though the battery and cables are good. Signs include a click or rapid clicking when you try to start, a grinding or whirring noise, the engine starting some times and not others, or nothing happening while the dash lights still come on. A weak battery or corroded cable ends can cause the same symptoms, so those should be checked first.",
+      "urgency": "soon",
+      "urgencyNote": "A failing starter does not make the car unsafe to drive once it is running, but it tends to get worse and can leave you stranded without warning. It becomes more pressing if starting is already hit and miss, or if you hear grinding, because that can wear the teeth on the engine's toothed wheel that the starter meshes with.",
+      "ask": ["Did you test the battery and the cable connections before deciding it is the starter?", "What test showed the starter itself has failed?", "Did you check the teeth on the flywheel for damage?"]
+    },
+    {
+      "slug": "thermostat",
+      "term": "Thermostat",
+      "short": "A small valve that controls coolant flow to keep the engine at the right temperature.",
+      "plain": "The engine is cooled by a liquid called coolant, which carries heat to the radiator at the front of the car, where passing air cools it down. The thermostat is a small heat-sensitive valve that sits between the engine and the radiator. When the engine is cold it stays closed so the engine warms up quickly, and once the engine is up to temperature it opens to let coolant flow through the radiator. It has nothing to do with the temperature dial for the cabin, although a faulty one can affect how well the heater works.",
+      "why": "A shop recommends a new thermostat when it sticks open or sticks closed. Stuck open, the engine runs cooler than it should: the temperature gauge stays low, the heater blows lukewarm air, and the check engine light may come on. Stuck closed, coolant cannot reach the radiator and the engine overheats.",
+      "urgency": "soon",
+      "urgencyNote": "A thermostat stuck open usually lets you keep driving for a short while, but an engine that runs too cool is less efficient and the fault should be repaired soon. It becomes a do-not-drive problem if the temperature gauge climbs toward hot or an overheating warning comes on, because an overheated engine can be badly damaged.",
+      "ask": ["Is the thermostat stuck open or stuck closed, and how did you test it?", "Did you check the coolant level and look for leaks as well?", "Does the housing or gasket need replacing along with it?"]
     }
   ]
 }
