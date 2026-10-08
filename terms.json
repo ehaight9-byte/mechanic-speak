@@ -200,6 +200,26 @@
       "urgency": "soon",
       "urgencyNote": "A thermostat stuck open usually lets you keep driving for a short while, but an engine that runs too cool is less efficient and the fault should be repaired soon. It becomes a do-not-drive problem if the temperature gauge climbs toward hot or an overheating warning comes on, because an overheated engine can be badly damaged.",
       "ask": ["Is the thermostat stuck open or stuck closed, and how did you test it?", "Did you check the coolant level and look for leaks as well?", "Does the housing or gasket need replacing along with it?"]
+    },
+    {
+      "slug": "radiator",
+      "term": "Radiator",
+      "short": "The grid of thin tubes and fins at the front of the car that cools the liquid running through the engine.",
+      "plain": "The engine is cooled by a liquid called coolant, which soaks up heat as it circulates through the engine. The radiator is a wide, flat part at the front of the car made of thin tubes and metal fins. Hot coolant flows through those tubes, air passing over the fins carries the heat away, and the cooled liquid goes back to the engine to do it again. On many cars with an automatic transmission, a small cooler for the transmission fluid is built into the radiator as well.",
+      "why": "A shop usually recommends a new radiator when it leaks coolant through a crack or a corroded spot, or when it is clogged inside or its fins are blocked so it can no longer shed enough heat. Typical signs are a puddle of coolant under the front of the car, a low coolant warning, a sweet smell, a temperature gauge that climbs higher than normal, or a cabin heater that blows weak heat.",
+      "urgency": "soon",
+      "urgencyNote": "A slow seep may leave you a little time if the coolant level stays up and the temperature gauge stays normal, but leaks tend to grow and the repair should not be put off. It becomes a stop-driving problem if the gauge climbs toward hot, a warning light comes on, or you see steam, because an overheated engine can be badly damaged.",
+      "ask": ["Where exactly is it leaking or blocked, and can you show me?", "Did you pressure-test the cooling system and check the hoses and radiator cap too?", "Do the hoses or thermostat need replacing at the same time, or just the radiator?"]
+    },
+    {
+      "slug": "master-cylinder",
+      "term": "Master cylinder",
+      "short": "The part that turns your push on the brake pedal into fluid pressure that works the brakes at each wheel.",
+      "plain": "Your brakes work by hydraulics, meaning a liquid called brake fluid is pushed through thin lines to squeeze the brakes at each wheel. The master cylinder is the part that does the pushing: when you press the brake pedal, pistons inside it force fluid out to the wheels. It sits under the hood on the driver's side with a small fluid tank, called the reservoir, on top. Modern cars split the brakes into two separate circuits so that if one fails, the other can still slow the car.",
+      "why": "The rubber seals inside wear with age, and once they stop holding pressure the fluid slips past them instead of going to the brakes. The usual signs are a brake pedal that feels soft or slowly sinks toward the floor while you hold it, more pedal travel before the brakes bite, a brake warning light, or a fluid level that drops. Fluid can also leak from the cylinder itself.",
+      "urgency": "now",
+      "urgencyNote": "The master cylinder is a safety-critical brake part, and a failing one generally gets worse rather than better. If the pedal sinks, feels soft, or goes much lower than usual, do not keep driving the car, because stopping distances grow and the brakes can fail.",
+      "ask": ["How did you confirm it is the master cylinder and not air in the lines or a leak somewhere else?", "Is it leaking inside or outside, and can you show me?", "Will the brake fluid be replaced and the system bled as part of the job?"]
     }
   ]
 }
