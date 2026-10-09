@@ -15,13 +15,14 @@ const page = (title, desc, body) => `<!doctype html>
 <meta name="description" content="${esc(desc)}">
 <meta name="google-site-verification" content="jHGDuf7vndmoHAYF0z2J-8fbIdiqUQPOLxNXKIT1QVU" />
 <link rel="stylesheet" href="/style.css">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8267973935350100" crossorigin="anonymous"></script>
 </head>
 <body>
 <header><a href="/">${esc(site.name)}</a></header>
 <main>
 ${body}
 </main>
-<footer>General information to help you talk with your mechanic. It is not a diagnosis of your car.</footer>
+<footer>General information to help you talk with your mechanic. It is not a diagnosis of your car. Some links are affiliate links: if you buy through them, we may earn a commission at no extra cost to you.</footer>
 </body>
 </html>
 `;
@@ -44,6 +45,7 @@ for (const t of terms) {
 <ul>
 ${t.ask.map(q => `<li>${esc(q)}</li>`).join('\n')}
 </ul>
+<p class="tip">Got a long estimate full of terms? A free browser AI like <a href="https://harpa.ai?fpr=flyjck" rel="sponsored nofollow noopener" target="_blank">HARPA AI</a> can read the page and explain each line in plain English.</p>
 <h2>More terms</h2>
 <ul class="list">
 ${others}

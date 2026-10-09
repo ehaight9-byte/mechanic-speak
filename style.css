@@ -22,3 +22,7 @@ footer { color:var(--mute); font-size:14px; margin-top:32px; }
 .tag.now { border-color:var(--accent); color:var(--accent); }
 main h2 { margin-top:36px; }
 .note { color:var(--mute); font-size:15px; border-top:1px solid var(--line); padding-top:16px; margin-top:40px; }
+
+.promo { background:var(--card); border:1px solid var(--line); border-left:4px solid var(--accent); border-radius:8px; padding:12px 16px; margin:28px 0; font:15px/1.5 system-ui, sans-serif; }
+.promo a { font-weight:700; }
+.tip { font:14px/1.5 system-ui, sans-serif; color:var(--mute); margin:12px 0 24px; }
