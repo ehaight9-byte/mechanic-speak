@@ -240,6 +240,26 @@
       "urgency": "soon",
       "urgencyNote": "A light seep is usually not an emergency as long as you keep an eye on the oil level and top it up when needed, but these leaks tend to grow rather than stop. It becomes more serious if oil is dripping onto the hot exhaust, the engine is misfiring, or the oil level keeps dropping, because leaking oil can smoke or catch fire and an engine run low on oil can be badly damaged.",
       "ask": ["Can you show me where the oil is coming from, and is it a light seep or an active drip?", "How did you confirm it is the valve cover gasket and not another oil leak nearby?", "Has oil reached the spark plugs or ignition coils, and do any of those need attention too?"]
+    },
+    {
+      "slug": "ball-joint",
+      "term": "Ball joint",
+      "short": "A pivot that connects the wheel to the suspension so it can steer and move up and down over bumps.",
+      "plain": "A ball joint is a metal ball on a stud that sits in a greased socket, a bit like a hip joint. It connects the control arm, a hinged arm of the suspension, to the steering knuckle, the part the wheel is mounted on. That pivot lets the wheel turn left and right for steering while it also moves up and down over bumps. A rubber cover called a boot keeps the grease in and dirt and water out.",
+      "why": "A shop recommends a new ball joint when it finds more looseness in the joint than the car maker allows, or a torn boot that has let the grease out and dirt in. The usual signs are clunking or creaking over bumps or when turning, steering that feels loose or wanders, and front tires wearing unevenly on one edge. Other worn steering and suspension parts cause the same symptoms, so the looseness should be traced to the joint itself.",
+      "urgency": "now",
+      "urgencyNote": "Ball joints wear gradually, but one that is loose beyond the car maker's limit is a safety problem, because a joint that comes apart lets the wheel fold in or out and you can lose control of the car. It is more serious still if the clunking is getting louder or the steering feels loose, so have it checked before driving much further, especially at highway speeds.",
+      "ask": ["Which ball joint is worn (upper or lower, left or right), and can you show me the looseness?", "How much play did you measure compared with the car maker's limit?", "Does the joint come out on its own or with the whole control arm, and will the car need a wheel alignment afterward?"]
+    },
+    {
+      "slug": "head-gasket",
+      "term": "Head gasket",
+      "short": "The seal between the two main halves of the engine that keeps combustion, coolant, and oil apart.",
+      "plain": "An engine is built in two main pieces: the block at the bottom, where the pistons move up and down, and the cylinder head bolted on top. The head gasket is a thin seal clamped between them. It holds in the pressure of the fuel burning in each cylinder, and it keeps the coolant (the liquid that carries heat away) and the engine oil in their own separate passages. When it fails, often called a blown head gasket, those three things start leaking into each other or to the outside.",
+      "why": "A shop recommends this repair when testing shows the gasket is no longer sealing. Typical signs are overheating, coolant that keeps dropping with no visible leak, white exhaust smoke that continues after the engine is warm, milky or frothy oil on the dipstick or under the oil cap, bubbles in the coolant, or a rough-running engine. No single sign proves it, and overheating is both a common cause and a common result, so the shop should confirm it with tests.",
+      "urgency": "now",
+      "urgencyNote": "A leaking head gasket does not heal, and driving on it risks severe engine damage, because coolant mixed into the oil stops the oil from protecting the engine and repeated overheating can ruin major parts. It is at its most serious if the temperature gauge is climbing or the oil looks milky; in that case stop driving and ask about having the car towed.",
+      "ask": ["What tests did you run to confirm it is the head gasket, such as a check for exhaust gases in the coolant, a compression test, or a cooling system pressure test?", "What caused it to fail, and is that cause being fixed too so it does not happen again?", "Will the cylinder head be checked for warping or cracks while it is off?"]
     }
   ]
 }
