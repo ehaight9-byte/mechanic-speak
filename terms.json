@@ -260,6 +260,26 @@
       "urgency": "now",
       "urgencyNote": "A leaking head gasket does not heal, and driving on it risks severe engine damage, because coolant mixed into the oil stops the oil from protecting the engine and repeated overheating can ruin major parts. It is at its most serious if the temperature gauge is climbing or the oil looks milky; in that case stop driving and ask about having the car towed.",
       "ask": ["What tests did you run to confirm it is the head gasket, such as a check for exhaust gases in the coolant, a compression test, or a cooling system pressure test?", "What caused it to fail, and is that cause being fixed too so it does not happen again?", "Will the cylinder head be checked for warping or cracks while it is off?"]
+    },
+    {
+      "slug": "sway-bar-link",
+      "term": "Sway bar link",
+      "short": "A short rod that ties the sway bar to the suspension so the car leans less in turns.",
+      "plain": "The sway bar, also called a stabilizer bar or anti-roll bar, is a steel bar that runs across the car and joins the left and right sides of the suspension. When the car leans in a turn, the bar twists and pushes back, which keeps the body flatter. A sway bar link, or end link, is the short rod at each end of the bar that attaches it to the suspension, usually at the control arm (a hinged suspension arm) or the strut (the shock absorber and spring unit). Each link has small joints or rubber cushions called bushings at its ends, and those are the parts that wear out.",
+      "why": "A shop recommends new links when the joints or bushings have become loose or a link has snapped. The usual signs are a clunk, knock, or rattle from one corner of the car over bumps and rough roads, and more body lean than you are used to in turns or lane changes. Other worn suspension parts make similar noises, so the looseness should be traced to the link itself.",
+      "urgency": "soon",
+      "urgencyNote": "A worn link that only rattles is mostly an annoyance, and the car can still be driven while you arrange the repair. It becomes more serious once a link is broken or disconnected, because the sway bar stops working on that end and the car leans more and feels less stable in quick turns, lane changes, and on highway ramps, so slow down for corners until it is fixed.",
+      "ask": ["Which link is worn or broken (front or rear, left or right), and can you show me the looseness?", "Is it the link itself or the sway bar bushings, and should the link on the other side be replaced at the same time?", "Did you check the other suspension parts on that corner that could cause the same noise?"]
+    },
+    {
+      "slug": "motor-mount",
+      "term": "Motor mount",
+      "short": "A rubber-cushioned bracket that holds the engine in place and soaks up its vibration.",
+      "plain": "Motor mounts, also called engine mounts, are the brackets that bolt the engine to the car's frame. Each one is a metal bracket with a block of rubber in the middle, and some are filled with fluid for extra cushioning. They do two jobs: they hold the engine steady when you accelerate, brake, and shift, and they keep the engine's shaking from reaching the cabin. A car has several, and the transmission (the gearbox attached to the engine) has similar mounts of its own.",
+      "why": "A shop recommends a new mount when the rubber has cracked, hardened, or pulled away from the metal, or a fluid-filled mount has leaked, so the engine moves more than it should. The usual signs are more vibration in the steering wheel, seat, or floor, especially at idle, and a clunk or thump when you shift into drive or reverse or press and release the gas. Vibration has many other causes, so the shop should confirm it by looking at the mount and watching how far the engine moves.",
+      "urgency": "soon",
+      "urgencyNote": "A worn mount usually gets worse gradually, so you normally have time to schedule the repair, but it will not improve and the extra movement puts more strain on the other mounts. It becomes more serious if the engine visibly lurches or the clunking is getting louder, because an engine that moves too far can pull on or strike nearby parts such as hoses, wiring, the exhaust, and the axles.",
+      "ask": ["Which mount has failed, and can you show me the cracked rubber, the leak, or how much the engine moves?", "Did you check the other engine and transmission mounts, and do any of them need replacing too?", "Has the extra engine movement damaged anything nearby, such as hoses, wiring, or the exhaust?"]
     }
   ]
 }
