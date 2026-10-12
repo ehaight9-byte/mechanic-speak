@@ -280,6 +280,26 @@
       "urgency": "soon",
       "urgencyNote": "A worn mount usually gets worse gradually, so you normally have time to schedule the repair, but it will not improve and the extra movement puts more strain on the other mounts. It becomes more serious if the engine visibly lurches or the clunking is getting louder, because an engine that moves too far can pull on or strike nearby parts such as hoses, wiring, the exhaust, and the axles.",
       "ask": ["Which mount has failed, and can you show me the cracked rubber, the leak, or how much the engine moves?", "Did you check the other engine and transmission mounts, and do any of them need replacing too?", "Has the extra engine movement damaged anything nearby, such as hoses, wiring, or the exhaust?"]
+    },
+    {
+      "slug": "wheel-alignment",
+      "term": "Wheel alignment",
+      "short": "An adjustment of the suspension so all four wheels point straight and sit at the right angle to the road.",
+      "plain": "A wheel alignment is a service, not a part: the shop puts the car on a machine that measures the angle of each wheel and then adjusts the suspension (the parts that connect the wheels to the car) to bring those angles back to the maker's settings. Three angles are checked: toe, which is whether the fronts of the tires point toward each other or away from each other; camber, which is how far the tops of the tires lean in or out; and caster, which is the forward or backward tilt of the line the front wheels pivot on when you steer. When these angles are right, the car tracks straight and each tire meets the road flat. It is different from wheel balancing, which adds small weights to a wheel so it spins without wobbling.",
+      "why": "Hitting a pothole or curb, or gradual wear in suspension and steering parts, can knock the wheels out of line, so shops often recommend an alignment with new tires or after steering and suspension repairs. The usual signs are the car drifting to one side, a steering wheel that sits off-center when you drive straight, and tires wearing faster on one edge than the other. Low tire pressure can cause similar pulling, so it is worth having the pressure checked too.",
+      "urgency": "soon",
+      "urgencyNote": "A slightly misaligned car is usually safe to drive while you schedule the work, but every mile wears the tires unevenly and that wear cannot be undone. It becomes more serious if the car pulls hard, the steering feels loose or wanders, or a tire is worn down on one edge, because that can point to a damaged suspension part and reduces grip, especially on wet roads.",
+      "ask": ["Can you show me the before-and-after alignment readings, and which angles were out?", "Did you find any worn or bent steering or suspension parts that would keep the alignment from holding?", "Is the uneven wear on my tires bad enough that they need replacing, or can they stay on after the alignment?"]
+    },
+    {
+      "slug": "mass-airflow-sensor",
+      "term": "Mass airflow sensor",
+      "short": "A sensor that measures how much air enters the engine so the car's computer can add the right amount of fuel.",
+      "plain": "The mass airflow sensor, often written as MAF sensor, sits in the air intake tube between the air filter and the engine. It uses a tiny heated wire or film: the more air rushes past, the more power it takes to keep that wire hot, and the sensor turns that into a reading. The engine computer uses the reading to decide how much fuel to spray in, so the mix of air and fuel stays balanced. If the sensor reports the wrong amount of air, the engine gets too much fuel (called running rich) or too little (called running lean).",
+      "why": "A shop recommends cleaning or replacing the sensor when the check engine light comes on with an airflow-sensor code or tests show its readings are off, often because dirt or oil has coated the sensing wire. Common symptoms are a rough or unsteady idle, hesitation or jerking when you accelerate, stalling, hard starting, worse fuel economy, and sometimes black smoke from the tailpipe. An air leak in the intake hose or a poorly fitted air filter can cause the same code, so those should be ruled out first.",
+      "urgency": "soon",
+      "urgencyNote": "A car with a faulty airflow sensor can often still be driven gently for a short time, but it may run poorly, waste fuel, or switch into a reduced-power mode to protect itself. It becomes more serious if the engine stalls in traffic, hesitates badly when you pull out, or the check engine light flashes, and running too rich or too lean for a long time can damage the engine and the catalytic converter.",
+      "ask": ["What trouble code or test result points to the airflow sensor, and did you check for air leaks or a bad air filter first?", "Could cleaning the sensor fix the problem, or does it need to be replaced?", "If you replace it, how will we confirm the problem is fixed, such as a test drive and clearing the codes?"]
     }
   ]
 }
