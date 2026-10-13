@@ -300,6 +300,26 @@
       "urgency": "soon",
       "urgencyNote": "A car with a faulty airflow sensor can often still be driven gently for a short time, but it may run poorly, waste fuel, or switch into a reduced-power mode to protect itself. It becomes more serious if the engine stalls in traffic, hesitates badly when you pull out, or the check engine light flashes, and running too rich or too lean for a long time can damage the engine and the catalytic converter.",
       "ask": ["What trouble code or test result points to the airflow sensor, and did you check for air leaks or a bad air filter first?", "Could cleaning the sensor fix the problem, or does it need to be replaced?", "If you replace it, how will we confirm the problem is fixed, such as a test drive and clearing the codes?"]
+    },
+    {
+      "slug": "egr-valve",
+      "term": "EGR valve",
+      "short": "A valve that feeds a small amount of exhaust back into the engine to cool combustion and cut polluting emissions.",
+      "plain": "EGR stands for exhaust gas recirculation. The EGR valve sits between the engine's exhaust side and its air intake, and when it opens it lets a measured bit of spent exhaust flow back in with the fresh air. That exhaust no longer burns, so it lowers the peak temperature inside the engine, which reduces nitrogen oxides (NOx), a type of air pollution. On newer cars the engine computer decides when and how far the valve opens; older cars use engine vacuum to move it.",
+      "why": "Exhaust carries soot, and over time it can build up as hard carbon inside the valve and its passages, making the valve stick open or shut. A valve stuck open tends to cause a rough or shaky idle, hesitation, and stalling, while a valve stuck shut can cause a pinging or knocking sound when you accelerate and higher emissions. Either way the check engine light often comes on, fuel economy can drop, and the car may fail an emissions test.",
+      "urgency": "soon",
+      "urgencyNote": "Many cars with an EGR problem can still be driven carefully for a short time, but the problem usually gets worse rather than better. It becomes more serious if the engine stalls in traffic, knocks or pings under load, or the check engine light flashes, since ongoing knocking or misfiring can damage the engine.",
+      "ask": ["What trouble code or test shows the EGR valve itself is the problem, rather than a clogged passage, a vacuum leak, or a wiring fault?", "Can the valve be cleaned, or is it too clogged or damaged and needs to be replaced?", "Do the EGR passages also need cleaning so the new or cleaned valve does not clog again right away?"]
+    },
+    {
+      "slug": "cabin-air-filter",
+      "term": "Cabin air filter",
+      "short": "A filter that cleans the outside air before your heater and air conditioning blow it into the passenger area.",
+      "plain": "The cabin air filter is a pleated paper or fabric pad that sits in the air duct feeding your car's heating and air conditioning system. As outside air is pulled in, the filter catches dust, pollen, soot, and other particles so less of it reaches you; some versions include charcoal to soak up odors. It is usually tucked behind the glove box or under the hood near the bottom of the windshield. It is a different part from the engine air filter, which cleans the air the engine breathes.",
+      "why": "A shop recommends a new one when the filter looks dirty or clogged during an inspection or it is due according to the maintenance schedule. A clogged filter can cause weak airflow from the vents, a fan that sounds louder or strained, musty or outside smells in the car, more dust on the dashboard, and windows that fog up and take longer to clear. Cars driven in dusty areas, heavy traffic, or wildfire smoke may need it changed more often.",
+      "urgency": "wait",
+      "urgencyNote": "A dirty cabin air filter does not affect how the car drives or brakes, so it can usually be handled at your next regular service; check the owner's manual for how often it should be changed. It matters more if the windows are slow to defog in cold or wet weather, if someone in the car has allergies or breathing problems, or if the vent fan is straining to push air through it.",
+      "ask": ["Can you show me the old filter so I can see how dirty it is?", "Is this the cabin air filter for the vents or the engine air filter, and do both need replacing?", "Where is the filter on my car, and is it something I could check myself next time?"]
     }
   ]
 }
