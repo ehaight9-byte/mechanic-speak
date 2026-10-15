@@ -1,5 +1,8 @@
 {
-  "site": { "name": "Mechanic Speak", "url": "https://enchanting-eclair-fd565a.netlify.app" },
+  "site": {
+    "name": "Mechanic Speak",
+    "url": "https://enchanting-eclair-fd565a.netlify.app"
+  },
   "terms": [
     {
       "slug": "serpentine-belt",
@@ -9,7 +12,10 @@
       "why": "Rubber belts crack, fray, and stretch with age and miles. A shop will usually recommend a new one when they see cracks or glazing, hear squealing, or when the car reaches the mileage the maker lists for replacement.",
       "urgency": "soon",
       "urgencyNote": "A worn belt often keeps working for a while, but if it snaps the battery stops charging and, on many cars, the engine can overheat quickly. Don't put it off for long once it's visibly cracked.",
-      "ask": ["Can you show me the cracks or wear on the belt?", "Does the tensioner or any pulley need replacing too, or just the belt?"]
+      "ask": [
+        "Can you show me the cracks or wear on the belt?",
+        "Does the tensioner or any pulley need replacing too, or just the belt?"
+      ]
     },
     {
       "slug": "cv-axle",
@@ -19,7 +25,10 @@
       "why": "The usual story is a torn boot: the grease leaks out, dirt gets in, and the joint wears. The classic sign is a clicking or popping noise when turning, or grease sprayed on the inside of the wheel.",
       "urgency": "soon",
       "urgencyNote": "A clicking joint usually gives you some warning time, but a joint that fails completely can leave the car unable to move. Loud clunking or vibration means get it looked at right away.",
-      "ask": ["Is it the boot that's torn or is the joint itself worn?", "Which side, and is it the inner or outer joint?"]
+      "ask": [
+        "Is it the boot that's torn or is the joint itself worn?",
+        "Which side, and is it the inner or outer joint?"
+      ]
     },
     {
       "slug": "brake-rotor-resurfacing",
@@ -29,7 +38,10 @@
       "why": "Shops suggest it during a brake job when the rotors have grooves, uneven wear, or cause a pulsing feeling in the brake pedal. Every rotor has a minimum thickness stamped on it; if shaving would take it below that, it must be replaced instead.",
       "urgency": "soon",
       "urgencyNote": "It is normally done together with new pads rather than on its own. Grinding noises or a strongly pulsing pedal mean the brakes should be checked promptly.",
-      "ask": ["How thick are the rotors now compared with the minimum?", "Would new rotors cost about the same as resurfacing these?"]
+      "ask": [
+        "How thick are the rotors now compared with the minimum?",
+        "Would new rotors cost about the same as resurfacing these?"
+      ]
     },
     {
       "slug": "control-arm",
@@ -39,7 +51,10 @@
       "why": "The rubber bushings crack and the ball joint loosens with age. Signs include clunking over bumps, wandering steering, and uneven tire wear. Many shops replace the whole arm because the bushings and joint come already fitted.",
       "urgency": "soon",
       "urgencyNote": "Worn bushings are mostly a noise and tire-wear problem at first. A badly worn ball joint is more serious, because if it separates the wheel can fold out of position.",
-      "ask": ["Is it the bushings, the ball joint, or both?", "Will the car need a wheel alignment afterward?"]
+      "ask": [
+        "Is it the bushings, the ball joint, or both?",
+        "Will the car need a wheel alignment afterward?"
+      ]
     },
     {
       "slug": "tie-rod-end",
@@ -49,7 +64,11 @@
       "why": "The joint wears and develops play, meaning it wiggles when it shouldn't. That shows up as loose or vague steering, a shaky steering wheel, or tires wearing on one edge.",
       "urgency": "now",
       "urgencyNote": "Steering parts are safety parts. A tie rod end with noticeable play should be replaced promptly, because a failed one means losing steering control of that wheel.",
-      "ask": ["Inner or outer, and which side?", "Can you show me the play in the joint?", "Is an alignment included in the price?"]
+      "ask": [
+        "Inner or outer, and which side?",
+        "Can you show me the play in the joint?",
+        "Is an alignment included in the price?"
+      ]
     },
     {
       "slug": "wheel-bearing",
@@ -59,7 +78,10 @@
       "why": "When a bearing wears, it makes a humming, growling, or roaring noise that gets louder with speed and often changes when you steer left or right.",
       "urgency": "soon",
       "urgencyNote": "A noisy bearing gets worse over time. Left long enough it can overheat or develop enough looseness to affect braking and steering, so plan the repair rather than ignoring it.",
-      "ask": ["Which wheel is it, and how did you confirm that?", "Is it a pressed-in bearing or a whole hub assembly?"]
+      "ask": [
+        "Which wheel is it, and how did you confirm that?",
+        "Is it a pressed-in bearing or a whole hub assembly?"
+      ]
     },
     {
       "slug": "catalytic-converter",
@@ -69,7 +91,10 @@
       "why": "It can become clogged or stop working well, which often turns on the check engine light with a catalyst efficiency code. It is also a common target for theft because of the metals inside; a stolen one makes the car suddenly very loud.",
       "urgency": "soon",
       "urgencyNote": "A weak converter usually won't strand you, but the car may fail an emissions test. A badly clogged one can choke the engine and cause overheating of the exhaust, so loss of power is a reason to act quickly.",
-      "ask": ["What caused it to fail? Is something else, like a misfire, damaging it?", "Is this covered by the longer federal emissions warranty for my car's age and mileage?"]
+      "ask": [
+        "What caused it to fail? Is something else, like a misfire, damaging it?",
+        "Is this covered by the longer federal emissions warranty for my car's age and mileage?"
+      ]
     },
     {
       "slug": "oxygen-sensor",
@@ -79,7 +104,10 @@
       "why": "Sensors slow down and fail with age. A bad one usually turns on the check engine light and can make the car use more fuel or run roughly.",
       "urgency": "wait",
       "urgencyNote": "The car is normally safe to drive for a short while, but running with a bad sensor for a long time wastes fuel and can eventually harm the catalytic converter.",
-      "ask": ["Which sensor is it: before or after the converter, and which side of the engine?", "Did you test the sensor, or is that based only on the code?"]
+      "ask": [
+        "Which sensor is it: before or after the converter, and which side of the engine?",
+        "Did you test the sensor, or is that based only on the code?"
+      ]
     },
     {
       "slug": "timing-belt",
@@ -89,7 +117,11 @@
       "why": "It is a scheduled replacement: car makers list a mileage or age at which it should be changed, whether or not it looks worn. Shops often suggest replacing the water pump and tensioner at the same time, because they sit behind the same covers.",
       "urgency": "now",
       "urgencyNote": "If your car is at or past the scheduled interval, don't delay. A timing belt usually gives no warning before it breaks, and on many engines a broken belt lets valves and pistons collide, which causes very expensive damage.",
-      "ask": ["Does my engine have a belt or a chain?", "What interval does the manufacturer list for my car?", "Does the quote include the water pump and tensioner?"]
+      "ask": [
+        "Does my engine have a belt or a chain?",
+        "What interval does the manufacturer list for my car?",
+        "Does the quote include the water pump and tensioner?"
+      ]
     },
     {
       "slug": "coolant-flush",
@@ -99,7 +131,11 @@
       "why": "The protective additives in coolant wear out over time, which can let corrosion build up inside the engine and radiator. Car makers list an interval for changing it, and shops recommend it when the fluid is old or tests poorly.",
       "urgency": "wait",
       "urgencyNote": "This is routine maintenance, not an emergency, as long as the car isn't overheating or leaking. Check your owner's manual for the interval before agreeing.",
-      "ask": ["What interval does my owner's manual give?", "Did you test the coolant, and what did the test show?", "Is it the correct coolant type for my car?"]
+      "ask": [
+        "What interval does my owner's manual give?",
+        "Did you test the coolant, and what did the test show?",
+        "Is it the correct coolant type for my car?"
+      ]
     },
     {
       "slug": "struts",
@@ -109,7 +145,11 @@
       "why": "The shock absorber inside wears out or leaks oil. Signs include a bouncy or floaty ride, the nose diving when braking, clunking over bumps, and cupped tire wear. They are normally replaced in pairs, both fronts or both rears.",
       "urgency": "wait",
       "urgencyNote": "Worn struts usually get worse slowly. They do lengthen stopping distances and reduce control on rough roads, so heavy leaking or very poor handling moves this up the list.",
-      "ask": ["Are they leaking, or is this based on mileage?", "Is the quote for complete assemblies with new springs and mounts?", "Is an alignment included?"]
+      "ask": [
+        "Are they leaking, or is this based on mileage?",
+        "Is the quote for complete assemblies with new springs and mounts?",
+        "Is an alignment included?"
+      ]
     },
     {
       "slug": "throttle-body-cleaning",
@@ -119,7 +159,10 @@
       "why": "Buildup can cause a rough or unsteady idle, stalling when coming to a stop, or a hesitant gas pedal. Some shops also offer it as a routine add-on service.",
       "urgency": "wait",
       "urgencyNote": "If the car idles and drives normally, this is usually optional. It is worth doing when you actually have idle or stalling symptoms.",
-      "ask": ["What symptom is this meant to fix?", "Is it listed in my car's maintenance schedule?"]
+      "ask": [
+        "What symptom is this meant to fix?",
+        "Is it listed in my car's maintenance schedule?"
+      ]
     },
     {
       "slug": "alternator",
@@ -129,7 +172,11 @@
       "why": "Alternators wear out inside, and a shop will usually recommend a new one after a charging system test shows it is not putting out enough power. Common signs are a battery warning light on the dash, headlights that dim or flicker, a battery that keeps going dead, slow power windows or other weak accessories, and a whining or growling noise from the engine area.",
       "urgency": "soon",
       "urgencyNote": "The car will often still drive for a while, but once the battery runs down the engine can stall and may not restart, which can leave you stranded. If the battery light is on while you are driving, or you notice a burning smell, get it checked right away.",
-      "ask": ["Did you test the charging system, and what did the alternator and the battery each show?", "Could the problem be the belt, a loose connection, or the battery rather than the alternator itself?", "Is the replacement part new or remanufactured?"]
+      "ask": [
+        "Did you test the charging system, and what did the alternator and the battery each show?",
+        "Could the problem be the belt, a loose connection, or the battery rather than the alternator itself?",
+        "Is the replacement part new or remanufactured?"
+      ]
     },
     {
       "slug": "brake-caliper",
@@ -139,7 +186,11 @@
       "why": "A shop recommends caliper work when one is sticking, seized, or leaking brake fluid, often because the piston or the slide pins have corroded. Signs include the car pulling to one side, a burning smell or one wheel that is much hotter than the others, pads worn unevenly, a soft or spongy brake pedal, or wet fluid around the wheel.",
       "urgency": "now",
       "urgencyNote": "Brakes are a safety system, and a caliper that sticks or leaks can lengthen stopping distances and make the car harder to control. A fluid leak or a pedal that feels soft or sinks is the most serious sign, so do not keep driving on it.",
-      "ask": ["Is the caliper seized or leaking, or are the slide pins just stuck and able to be cleaned and lubricated?", "Which wheel is it, and can you show me the uneven pad wear or the leak?", "Do the pads, rotor, or brake hose on that wheel need replacing too?"]
+      "ask": [
+        "Is the caliper seized or leaking, or are the slide pins just stuck and able to be cleaned and lubricated?",
+        "Which wheel is it, and can you show me the uneven pad wear or the leak?",
+        "Do the pads, rotor, or brake hose on that wheel need replacing too?"
+      ]
     },
     {
       "slug": "water-pump",
@@ -149,7 +200,11 @@
       "why": "A shop recommends a new water pump when it is leaking coolant from its seal or gasket, or when its bearing is worn and noisy. Signs include coolant drips or dried, crusty residue near the front of the engine, a coolant level that keeps dropping, a grinding, whining or squealing noise from that area, and a temperature gauge that climbs or steam from under the hood.",
       "urgency": "now",
       "urgencyNote": "A failing water pump can let the engine overheat, and driving an overheating engine can cause severe damage. If the temperature gauge is climbing, a warning light is on, or you see steam, pull over safely and shut the engine off rather than driving on.",
-      "ask": ["Can you show me where the pump is leaking, or what test showed it has failed?", "Could the coolant loss be coming from a hose, the radiator, or the cap instead of the pump?", "Is the pump driven by the timing belt on my engine, and does anything else need to come off or be replaced at the same time?"]
+      "ask": [
+        "Can you show me where the pump is leaking, or what test showed it has failed?",
+        "Could the coolant loss be coming from a hose, the radiator, or the cap instead of the pump?",
+        "Is the pump driven by the timing belt on my engine, and does anything else need to come off or be replaced at the same time?"
+      ]
     },
     {
       "slug": "spark-plugs",
@@ -159,7 +214,11 @@
       "why": "Spark plugs are a wear item, so a shop may recommend new ones as scheduled maintenance; check your owner's manual for when they are due. A shop may also recommend them when worn plugs are causing trouble, such as a rough or shaky idle, hard starting, sluggish acceleration, worse fuel economy, or a misfire, which is when a cylinder fails to fire properly and may turn on the check engine light.",
       "urgency": "soon",
       "urgencyNote": "Worn plugs usually get worse gradually, so there is normally time to plan the work, but the engine will run less smoothly and use more fuel in the meantime. It becomes more serious if the engine is misfiring, and a flashing check engine light means you should get it checked right away, because ongoing misfires can damage the catalytic converter.",
-      "ask": ["Are the plugs due by the schedule in my owner's manual, or did you find a misfire or other problem?", "Can you show me the old plugs and what you see on them?", "If there is a misfire, have you checked the ignition coils and other possible causes as well?"]
+      "ask": [
+        "Are the plugs due by the schedule in my owner's manual, or did you find a misfire or other problem?",
+        "Can you show me the old plugs and what you see on them?",
+        "If there is a misfire, have you checked the ignition coils and other possible causes as well?"
+      ]
     },
     {
       "slug": "brake-pads",
@@ -169,7 +228,11 @@
       "why": "A shop recommends new pads when the friction material has worn thin, which they can measure during an inspection. Signs you may notice include a high-pitched squeal when braking, which often comes from a small metal tab built into the pad to warn you it is getting low, a brake warning light on cars that have pad wear sensors, the car taking longer to stop, or a harsh grinding noise.",
       "urgency": "soon",
       "urgencyNote": "Pads that are getting thin but still have material left usually give you a little time to plan the work, though braking gets weaker as they wear, so do not put it off for long. It becomes a do-not-wait repair if you hear grinding or the car is clearly taking longer to stop, because pads worn down to the metal stop the car poorly and damage the rotors.",
-      "ask": ["How much pad material is left on each wheel, and what is the minimum for my car?", "Can you show me the pads and the condition of the rotors?", "Are the pads wearing evenly, and if not, what is causing it?"]
+      "ask": [
+        "How much pad material is left on each wheel, and what is the minimum for my car?",
+        "Can you show me the pads and the condition of the rotors?",
+        "Are the pads wearing evenly, and if not, what is causing it?"
+      ]
     },
     {
       "slug": "ignition-coil",
@@ -179,7 +242,11 @@
       "why": "A shop recommends a new coil when testing shows one is not delivering a proper spark, which causes a misfire, meaning a cylinder fails to fire properly. Signs include a rough or shaky idle, hesitation or loss of power when accelerating, hard starting, worse fuel economy, and a check engine light. Worn spark plugs make coils work harder, so a shop may suggest checking or replacing the plugs at the same time.",
       "urgency": "soon",
       "urgencyNote": "A car with one weak coil will often still drive, but it runs poorly and should be repaired soon rather than driven on for weeks. It becomes more serious if the check engine light is flashing or the engine is shaking badly, because a misfiring cylinder sends unburned fuel into the exhaust, where it can overheat and ruin the catalytic converter.",
-      "ask": ["Which cylinder is misfiring, and what test showed the coil is the cause rather than the spark plug or wiring?", "Do the spark plugs need replacing at the same time?", "Are you recommending one coil or all of them, and why?"]
+      "ask": [
+        "Which cylinder is misfiring, and what test showed the coil is the cause rather than the spark plug or wiring?",
+        "Do the spark plugs need replacing at the same time?",
+        "Are you recommending one coil or all of them, and why?"
+      ]
     },
     {
       "slug": "starter",
@@ -189,7 +256,11 @@
       "why": "A shop recommends a new starter when testing shows it is not cranking the engine properly even though the battery and cables are good. Signs include a click or rapid clicking when you try to start, a grinding or whirring noise, the engine starting some times and not others, or nothing happening while the dash lights still come on. A weak battery or corroded cable ends can cause the same symptoms, so those should be checked first.",
       "urgency": "soon",
       "urgencyNote": "A failing starter does not make the car unsafe to drive once it is running, but it tends to get worse and can leave you stranded without warning. It becomes more pressing if starting is already hit and miss, or if you hear grinding, because that can wear the teeth on the engine's toothed wheel that the starter meshes with.",
-      "ask": ["Did you test the battery and the cable connections before deciding it is the starter?", "What test showed the starter itself has failed?", "Did you check the teeth on the flywheel for damage?"]
+      "ask": [
+        "Did you test the battery and the cable connections before deciding it is the starter?",
+        "What test showed the starter itself has failed?",
+        "Did you check the teeth on the flywheel for damage?"
+      ]
     },
     {
       "slug": "thermostat",
@@ -199,7 +270,11 @@
       "why": "A shop recommends a new thermostat when it sticks open or sticks closed. Stuck open, the engine runs cooler than it should: the temperature gauge stays low, the heater blows lukewarm air, and the check engine light may come on. Stuck closed, coolant cannot reach the radiator and the engine overheats.",
       "urgency": "soon",
       "urgencyNote": "A thermostat stuck open usually lets you keep driving for a short while, but an engine that runs too cool is less efficient and the fault should be repaired soon. It becomes a do-not-drive problem if the temperature gauge climbs toward hot or an overheating warning comes on, because an overheated engine can be badly damaged.",
-      "ask": ["Is the thermostat stuck open or stuck closed, and how did you test it?", "Did you check the coolant level and look for leaks as well?", "Does the housing or gasket need replacing along with it?"]
+      "ask": [
+        "Is the thermostat stuck open or stuck closed, and how did you test it?",
+        "Did you check the coolant level and look for leaks as well?",
+        "Does the housing or gasket need replacing along with it?"
+      ]
     },
     {
       "slug": "radiator",
@@ -209,7 +284,11 @@
       "why": "A shop usually recommends a new radiator when it leaks coolant through a crack or a corroded spot, or when it is clogged inside or its fins are blocked so it can no longer shed enough heat. Typical signs are a puddle of coolant under the front of the car, a low coolant warning, a sweet smell, a temperature gauge that climbs higher than normal, or a cabin heater that blows weak heat.",
       "urgency": "soon",
       "urgencyNote": "A slow seep may leave you a little time if the coolant level stays up and the temperature gauge stays normal, but leaks tend to grow and the repair should not be put off. It becomes a stop-driving problem if the gauge climbs toward hot, a warning light comes on, or you see steam, because an overheated engine can be badly damaged.",
-      "ask": ["Where exactly is it leaking or blocked, and can you show me?", "Did you pressure-test the cooling system and check the hoses and radiator cap too?", "Do the hoses or thermostat need replacing at the same time, or just the radiator?"]
+      "ask": [
+        "Where exactly is it leaking or blocked, and can you show me?",
+        "Did you pressure-test the cooling system and check the hoses and radiator cap too?",
+        "Do the hoses or thermostat need replacing at the same time, or just the radiator?"
+      ]
     },
     {
       "slug": "master-cylinder",
@@ -219,7 +298,11 @@
       "why": "The rubber seals inside wear with age, and once they stop holding pressure the fluid slips past them instead of going to the brakes. The usual signs are a brake pedal that feels soft or slowly sinks toward the floor while you hold it, more pedal travel before the brakes bite, a brake warning light, or a fluid level that drops. Fluid can also leak from the cylinder itself.",
       "urgency": "now",
       "urgencyNote": "The master cylinder is a safety-critical brake part, and a failing one generally gets worse rather than better. If the pedal sinks, feels soft, or goes much lower than usual, do not keep driving the car, because stopping distances grow and the brakes can fail.",
-      "ask": ["How did you confirm it is the master cylinder and not air in the lines or a leak somewhere else?", "Is it leaking inside or outside, and can you show me?", "Will the brake fluid be replaced and the system bled as part of the job?"]
+      "ask": [
+        "How did you confirm it is the master cylinder and not air in the lines or a leak somewhere else?",
+        "Is it leaking inside or outside, and can you show me?",
+        "Will the brake fluid be replaced and the system bled as part of the job?"
+      ]
     },
     {
       "slug": "fuel-pump",
@@ -229,7 +312,11 @@
       "why": "A shop recommends a new fuel pump when testing shows it can no longer deliver enough fuel or pressure, or when it has stopped running altogether. Typical signs are an engine that cranks but will not start, sputtering or stalling, weak acceleration, or losing power going uphill or carrying a load. A blown fuse, a bad relay, poor wiring, or a clogged fuel filter can cause the same symptoms, so the diagnosis matters.",
       "urgency": "soon",
       "urgencyNote": "A weak pump can keep working for a while, but it tends to get worse and can quit without much warning, leaving you with a car that will not start. It becomes more serious if the engine is already stalling or cutting out while you drive, because losing power in traffic is a safety risk.",
-      "ask": ["Did you measure the fuel pressure, and what was the reading compared with what it should be?", "Did you check the fuse, relay, and wiring to the pump before deciding the pump itself is bad?", "Is the fuel filter being replaced or checked as part of this job?"]
+      "ask": [
+        "Did you measure the fuel pressure, and what was the reading compared with what it should be?",
+        "Did you check the fuse, relay, and wiring to the pump before deciding the pump itself is bad?",
+        "Is the fuel filter being replaced or checked as part of this job?"
+      ]
     },
     {
       "slug": "valve-cover-gasket",
@@ -239,7 +326,11 @@
       "why": "A shop recommends replacing it when oil is leaking from the joint around the valve cover. The usual signs are oily, dirt-caked grime around the top of the engine, a burning oil smell when leaked oil lands on hot parts, and an oil level that drops between oil changes. On some engines the oil seeps into the wells where the spark plugs sit and makes the engine run rough or misfire.",
       "urgency": "soon",
       "urgencyNote": "A light seep is usually not an emergency as long as you keep an eye on the oil level and top it up when needed, but these leaks tend to grow rather than stop. It becomes more serious if oil is dripping onto the hot exhaust, the engine is misfiring, or the oil level keeps dropping, because leaking oil can smoke or catch fire and an engine run low on oil can be badly damaged.",
-      "ask": ["Can you show me where the oil is coming from, and is it a light seep or an active drip?", "How did you confirm it is the valve cover gasket and not another oil leak nearby?", "Has oil reached the spark plugs or ignition coils, and do any of those need attention too?"]
+      "ask": [
+        "Can you show me where the oil is coming from, and is it a light seep or an active drip?",
+        "How did you confirm it is the valve cover gasket and not another oil leak nearby?",
+        "Has oil reached the spark plugs or ignition coils, and do any of those need attention too?"
+      ]
     },
     {
       "slug": "ball-joint",
@@ -249,7 +340,11 @@
       "why": "A shop recommends a new ball joint when it finds more looseness in the joint than the car maker allows, or a torn boot that has let the grease out and dirt in. The usual signs are clunking or creaking over bumps or when turning, steering that feels loose or wanders, and front tires wearing unevenly on one edge. Other worn steering and suspension parts cause the same symptoms, so the looseness should be traced to the joint itself.",
       "urgency": "now",
       "urgencyNote": "Ball joints wear gradually, but one that is loose beyond the car maker's limit is a safety problem, because a joint that comes apart lets the wheel fold in or out and you can lose control of the car. It is more serious still if the clunking is getting louder or the steering feels loose, so have it checked before driving much further, especially at highway speeds.",
-      "ask": ["Which ball joint is worn (upper or lower, left or right), and can you show me the looseness?", "How much play did you measure compared with the car maker's limit?", "Does the joint come out on its own or with the whole control arm, and will the car need a wheel alignment afterward?"]
+      "ask": [
+        "Which ball joint is worn (upper or lower, left or right), and can you show me the looseness?",
+        "How much play did you measure compared with the car maker's limit?",
+        "Does the joint come out on its own or with the whole control arm, and will the car need a wheel alignment afterward?"
+      ]
     },
     {
       "slug": "head-gasket",
@@ -259,7 +354,11 @@
       "why": "A shop recommends this repair when testing shows the gasket is no longer sealing. Typical signs are overheating, coolant that keeps dropping with no visible leak, white exhaust smoke that continues after the engine is warm, milky or frothy oil on the dipstick or under the oil cap, bubbles in the coolant, or a rough-running engine. No single sign proves it, and overheating is both a common cause and a common result, so the shop should confirm it with tests.",
       "urgency": "now",
       "urgencyNote": "A leaking head gasket does not heal, and driving on it risks severe engine damage, because coolant mixed into the oil stops the oil from protecting the engine and repeated overheating can ruin major parts. It is at its most serious if the temperature gauge is climbing or the oil looks milky; in that case stop driving and ask about having the car towed.",
-      "ask": ["What tests did you run to confirm it is the head gasket, such as a check for exhaust gases in the coolant, a compression test, or a cooling system pressure test?", "What caused it to fail, and is that cause being fixed too so it does not happen again?", "Will the cylinder head be checked for warping or cracks while it is off?"]
+      "ask": [
+        "What tests did you run to confirm it is the head gasket, such as a check for exhaust gases in the coolant, a compression test, or a cooling system pressure test?",
+        "What caused it to fail, and is that cause being fixed too so it does not happen again?",
+        "Will the cylinder head be checked for warping or cracks while it is off?"
+      ]
     },
     {
       "slug": "sway-bar-link",
@@ -269,7 +368,11 @@
       "why": "A shop recommends new links when the joints or bushings have become loose or a link has snapped. The usual signs are a clunk, knock, or rattle from one corner of the car over bumps and rough roads, and more body lean than you are used to in turns or lane changes. Other worn suspension parts make similar noises, so the looseness should be traced to the link itself.",
       "urgency": "soon",
       "urgencyNote": "A worn link that only rattles is mostly an annoyance, and the car can still be driven while you arrange the repair. It becomes more serious once a link is broken or disconnected, because the sway bar stops working on that end and the car leans more and feels less stable in quick turns, lane changes, and on highway ramps, so slow down for corners until it is fixed.",
-      "ask": ["Which link is worn or broken (front or rear, left or right), and can you show me the looseness?", "Is it the link itself or the sway bar bushings, and should the link on the other side be replaced at the same time?", "Did you check the other suspension parts on that corner that could cause the same noise?"]
+      "ask": [
+        "Which link is worn or broken (front or rear, left or right), and can you show me the looseness?",
+        "Is it the link itself or the sway bar bushings, and should the link on the other side be replaced at the same time?",
+        "Did you check the other suspension parts on that corner that could cause the same noise?"
+      ]
     },
     {
       "slug": "motor-mount",
@@ -279,7 +382,11 @@
       "why": "A shop recommends a new mount when the rubber has cracked, hardened, or pulled away from the metal, or a fluid-filled mount has leaked, so the engine moves more than it should. The usual signs are more vibration in the steering wheel, seat, or floor, especially at idle, and a clunk or thump when you shift into drive or reverse or press and release the gas. Vibration has many other causes, so the shop should confirm it by looking at the mount and watching how far the engine moves.",
       "urgency": "soon",
       "urgencyNote": "A worn mount usually gets worse gradually, so you normally have time to schedule the repair, but it will not improve and the extra movement puts more strain on the other mounts. It becomes more serious if the engine visibly lurches or the clunking is getting louder, because an engine that moves too far can pull on or strike nearby parts such as hoses, wiring, the exhaust, and the axles.",
-      "ask": ["Which mount has failed, and can you show me the cracked rubber, the leak, or how much the engine moves?", "Did you check the other engine and transmission mounts, and do any of them need replacing too?", "Has the extra engine movement damaged anything nearby, such as hoses, wiring, or the exhaust?"]
+      "ask": [
+        "Which mount has failed, and can you show me the cracked rubber, the leak, or how much the engine moves?",
+        "Did you check the other engine and transmission mounts, and do any of them need replacing too?",
+        "Has the extra engine movement damaged anything nearby, such as hoses, wiring, or the exhaust?"
+      ]
     },
     {
       "slug": "wheel-alignment",
@@ -289,7 +396,11 @@
       "why": "Hitting a pothole or curb, or gradual wear in suspension and steering parts, can knock the wheels out of line, so shops often recommend an alignment with new tires or after steering and suspension repairs. The usual signs are the car drifting to one side, a steering wheel that sits off-center when you drive straight, and tires wearing faster on one edge than the other. Low tire pressure can cause similar pulling, so it is worth having the pressure checked too.",
       "urgency": "soon",
       "urgencyNote": "A slightly misaligned car is usually safe to drive while you schedule the work, but every mile wears the tires unevenly and that wear cannot be undone. It becomes more serious if the car pulls hard, the steering feels loose or wanders, or a tire is worn down on one edge, because that can point to a damaged suspension part and reduces grip, especially on wet roads.",
-      "ask": ["Can you show me the before-and-after alignment readings, and which angles were out?", "Did you find any worn or bent steering or suspension parts that would keep the alignment from holding?", "Is the uneven wear on my tires bad enough that they need replacing, or can they stay on after the alignment?"]
+      "ask": [
+        "Can you show me the before-and-after alignment readings, and which angles were out?",
+        "Did you find any worn or bent steering or suspension parts that would keep the alignment from holding?",
+        "Is the uneven wear on my tires bad enough that they need replacing, or can they stay on after the alignment?"
+      ]
     },
     {
       "slug": "mass-airflow-sensor",
@@ -299,7 +410,11 @@
       "why": "A shop recommends cleaning or replacing the sensor when the check engine light comes on with an airflow-sensor code or tests show its readings are off, often because dirt or oil has coated the sensing wire. Common symptoms are a rough or unsteady idle, hesitation or jerking when you accelerate, stalling, hard starting, worse fuel economy, and sometimes black smoke from the tailpipe. An air leak in the intake hose or a poorly fitted air filter can cause the same code, so those should be ruled out first.",
       "urgency": "soon",
       "urgencyNote": "A car with a faulty airflow sensor can often still be driven gently for a short time, but it may run poorly, waste fuel, or switch into a reduced-power mode to protect itself. It becomes more serious if the engine stalls in traffic, hesitates badly when you pull out, or the check engine light flashes, and running too rich or too lean for a long time can damage the engine and the catalytic converter.",
-      "ask": ["What trouble code or test result points to the airflow sensor, and did you check for air leaks or a bad air filter first?", "Could cleaning the sensor fix the problem, or does it need to be replaced?", "If you replace it, how will we confirm the problem is fixed, such as a test drive and clearing the codes?"]
+      "ask": [
+        "What trouble code or test result points to the airflow sensor, and did you check for air leaks or a bad air filter first?",
+        "Could cleaning the sensor fix the problem, or does it need to be replaced?",
+        "If you replace it, how will we confirm the problem is fixed, such as a test drive and clearing the codes?"
+      ]
     },
     {
       "slug": "egr-valve",
@@ -309,7 +424,11 @@
       "why": "Exhaust carries soot, and over time it can build up as hard carbon inside the valve and its passages, making the valve stick open or shut. A valve stuck open tends to cause a rough or shaky idle, hesitation, and stalling, while a valve stuck shut can cause a pinging or knocking sound when you accelerate and higher emissions. Either way the check engine light often comes on, fuel economy can drop, and the car may fail an emissions test.",
       "urgency": "soon",
       "urgencyNote": "Many cars with an EGR problem can still be driven carefully for a short time, but the problem usually gets worse rather than better. It becomes more serious if the engine stalls in traffic, knocks or pings under load, or the check engine light flashes, since ongoing knocking or misfiring can damage the engine.",
-      "ask": ["What trouble code or test shows the EGR valve itself is the problem, rather than a clogged passage, a vacuum leak, or a wiring fault?", "Can the valve be cleaned, or is it too clogged or damaged and needs to be replaced?", "Do the EGR passages also need cleaning so the new or cleaned valve does not clog again right away?"]
+      "ask": [
+        "What trouble code or test shows the EGR valve itself is the problem, rather than a clogged passage, a vacuum leak, or a wiring fault?",
+        "Can the valve be cleaned, or is it too clogged or damaged and needs to be replaced?",
+        "Do the EGR passages also need cleaning so the new or cleaned valve does not clog again right away?"
+      ]
     },
     {
       "slug": "cabin-air-filter",
@@ -319,7 +438,39 @@
       "why": "A shop recommends a new one when the filter looks dirty or clogged during an inspection or it is due according to the maintenance schedule. A clogged filter can cause weak airflow from the vents, a fan that sounds louder or strained, musty or outside smells in the car, more dust on the dashboard, and windows that fog up and take longer to clear. Cars driven in dusty areas, heavy traffic, or wildfire smoke may need it changed more often.",
       "urgency": "wait",
       "urgencyNote": "A dirty cabin air filter does not affect how the car drives or brakes, so it can usually be handled at your next regular service; check the owner's manual for how often it should be changed. It matters more if the windows are slow to defog in cold or wet weather, if someone in the car has allergies or breathing problems, or if the vent fan is straining to push air through it.",
-      "ask": ["Can you show me the old filter so I can see how dirty it is?", "Is this the cabin air filter for the vents or the engine air filter, and do both need replacing?", "Where is the filter on my car, and is it something I could check myself next time?"]
+      "ask": [
+        "Can you show me the old filter so I can see how dirty it is?",
+        "Is this the cabin air filter for the vents or the engine air filter, and do both need replacing?",
+        "Where is the filter on my car, and is it something I could check myself next time?"
+      ]
+    },
+    {
+      "slug": "pcv-valve",
+      "term": "PCV valve",
+      "short": "A small one-way valve that routes engine fumes back into the engine to be burned instead of leaking out.",
+      "plain": "PCV stands for positive crankcase ventilation. As your engine runs, some combustion gases slip past the pistons into the crankcase — the lower part of the engine that holds the oil. These gases are called blow-by, and the PCV valve is a small one-way valve that sends them back through the intake manifold (the passage that feeds air into the engine) so they get burned up instead of building pressure or polluting. It also keeps pressure from building up inside the crankcase, which protects the engine's gaskets and seals.",
+      "why": "Shops recommend replacing it when it's clogged with sludge or carbon, or when symptoms point at it — rough idle, a hissing or whistling sound from the engine, oil leaks around gaskets, or the check engine light. A stuck-open valve acts like a vacuum leak and can cause misfires and oil burning; a stuck-closed one traps pressure that forces oil past seals.",
+      "urgency": "soon",
+      "urgencyNote": "A bad PCV valve rarely strands you the same day, but it gets worse the longer it goes — trapped pressure can ruin seals and gaskets, and the sludge it allows can shorten engine life. If you notice fresh oil leaks or the engine running rough, get it checked promptly.",
+      "ask": [
+        "What makes you think the PCV valve is the problem — did you test it, or are you going by symptoms?",
+        "Should the PCV hose be replaced at the same time, or just the valve?",
+        "Could low oil or overdue oil changes have caused this to clog?"
+      ]
+    },
+    {
+      "slug": "transmission-fluid-service",
+      "term": "Transmission fluid service",
+      "short": "Draining the old fluid from the transmission and refilling it with fresh fluid, sometimes with a new filter.",
+      "plain": "The transmission is the gearbox that transfers the engine's power to the wheels, and it runs in a bath of special oil called transmission fluid. The fluid lubricates the moving parts, carries heat away, and in an automatic it also works as hydraulic fluid — the pressurized liquid that actually makes the gears shift. Over time, heat and friction break the fluid down and fill it with tiny metal particles, so it stops protecting as well. A transmission fluid service drains out the old fluid and refills it with fresh fluid that meets your car's specification; on many cars the shop also replaces or cleans the transmission filter.",
+      "why": "Shops recommend it as preventive maintenance because dirty, worn-out fluid makes shifting rough and accelerates wear inside the transmission — and a transmission rebuild is one of the most expensive repairs a car can need. Signs the fluid is overdue include hard or delayed shifting, slipping (the engine revs but the car doesn't pull), or a burnt smell from the fluid. Follow the interval in your owner's manual, since it varies widely between cars.",
+      "urgency": "soon",
+      "urgencyNote": "This is maintenance, not an emergency — driving a bit past the service point won't destroy anything overnight. But the longer worn fluid stays in, the more wear accumulates, and once shifting problems start, a simple fluid service may no longer be enough.",
+      "ask": [
+        "What does my owner's manual say the service interval is for my car?",
+        "Is this a drain-and-fill or a full flush, and does my car need the filter replaced too?",
+        "Will you use the exact fluid specification my manufacturer requires?"
+      ]
     }
   ]
 }
